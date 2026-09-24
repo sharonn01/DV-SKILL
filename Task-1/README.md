@@ -80,7 +80,7 @@ The notebook follows a standard EDA pipeline:
 ## Repository Structure
 
 ```
-.
+
 ├── Task_1_BDA.ipynb           # Main analysis notebook
 ├── samplesuperstore.csv       # Raw dataset
 └── README.md                  # Project documentation
