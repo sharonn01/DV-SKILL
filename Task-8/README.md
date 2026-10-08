@@ -188,5 +188,3 @@ Reading and Writing are almost the same signal. Math is strongly related to both
 ---
 
 ---
-
-⭐ If you found this project useful, consider giving it a star.
